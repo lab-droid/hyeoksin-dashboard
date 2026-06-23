@@ -1,0 +1,6 @@
+{
+  "name": "넥스트인 업무 대시보드",
+  "description": "일 평균 1시간 단축을 통한 압도적 생산성 향상을 제공하는 넥스트인의 프리미엄 통합 업무 대시보드 및 칸반 솔루션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
